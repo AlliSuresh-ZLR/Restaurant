@@ -1,0 +1,92 @@
+[
+    {
+        "type": "Rice Items",
+        "name": "veg biriyani",
+        "price": "234",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Pizza",
+        "name": "burger",
+        "price": "88",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5cF_yP0fiw4o8Tg5v7g1jYBcYfCw8od7NA&usqp=CAU"
+    },
+    {
+        "type": "Cold Drinks",
+        "name": "orangeJuice",
+        "price": "33",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Hot Drinks",
+        "name": "coffee",
+        "price": "55",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Rice Items",
+        "name": "paramannam",
+        "price": "121",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Pizza",
+        "name": "Dominos ",
+        "price": "99",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5cF_yP0fiw4o8Tg5v7g1jYBcYfCw8od7NA&usqp=CAU"
+    },
+    {
+        "type": "Rice Items",
+        "name": "Kichidi",
+        "price": "55",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Rice Items",
+        "name": "palavu",
+        "price": "50",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Rice Items",
+        "name": " masala biriyani",
+        "price": "124",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Rice Items",
+        "name": "veg biriyani",
+        "price": "175",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Cold Drinks",
+        "name": "pepsi",
+        "price": "50",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Cold Drinks",
+        "name": "maza",
+        "price": "50",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Cold Drinks",
+        "name": "Mango Lassi",
+        "price": "70",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Hot Drinks",
+        "name": "Irsny Chai",
+        "price": "50",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    },
+    {
+        "type": "Hot Drinks",
+        "name": "Milk ",
+        "price": "50",
+        "url": "https://imgmedia.lbb.in/media/2020/05/5ebbf3412b08841c1841b0f6_1589375809619.jpg"
+    }
+]

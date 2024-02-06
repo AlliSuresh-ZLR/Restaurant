@@ -10,12 +10,14 @@ import Searchfilter from './Searchfilter';
 import Apprest from './Restaurant/Apprest';
 import { configureStore } from '@reduxjs/toolkit';
 import {store} from './Restaurant/restcontext/context'
+import CalcApp from './calculator/CalcApp';
 const store1=createContext();
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
-    <Apprest/>
+    // <Apprest/>
+    <CalcApp/>
 );
 reportWebVitals();
